@@ -1,0 +1,14 @@
+D:\dotnet\Commander\bin\Debug\netcoreapp2.2\Commander.deps.json
+D:\dotnet\Commander\bin\Debug\netcoreapp2.2\Commander.runtimeconfig.json
+D:\dotnet\Commander\bin\Debug\netcoreapp2.2\Commander.runtimeconfig.dev.json
+D:\dotnet\Commander\bin\Debug\netcoreapp2.2\Commander.dll
+D:\dotnet\Commander\bin\Debug\netcoreapp2.2\Commander.pdb
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.csprojAssemblyReference.cache
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.csproj.CoreCompileInputs.cache
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.RazorAssemblyInfo.cache
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.RazorAssemblyInfo.cs
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.AssemblyInfoInputs.cache
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.AssemblyInfo.cs
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.RazorTargetAssemblyInfo.cache
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.dll
+D:\dotnet\Commander\obj\Debug\netcoreapp2.2\Commander.pdb
